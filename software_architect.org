@@ -1,0 +1,116 @@
+* Are you a software architect
+  Simon Brown
+  @simonbrown
+
+** Perceptions
+   Architects have a bad reputation
+
+   - Ivory tower
+   - Astronaut
+
+   What people say about architects:
+   - We don't need the architect, we'll just hire smart software
+     engineers
+   - You MUST follow the architect's vision
+   - We'll get the architecht in at the beginning, then we can just
+     follow the framework.
+
+** How (some) archtects view themselves
+   - Architects are business technology strategists
+   - "What's the value proposition of MongoDB"
+
+** What is an architect.
+
+   The "corporate ladder": head upwards from technical to managerial
+   roles. You don't have people leading teams in a technical way.
+
+** What is architecture
+   Requirements, foundations infrastructure.
+   
+   Many types, at least
+   - Application,
+     Languages, classes, modules, frameworks and so on.
+
+   - System,
+     Subsystems, interoperability.
+
+   - Enterprise.
+     People, processes, business practices.
+
+   Software architects: these are application and system architects,
+   not enterprise.
+
+** What is design?
+   See [[http://en.wikipedia.org/wiki/Grady_Booch][Grady Booch]].
+
+   "All architecture is design but not all design is architecture" --
+   Grady Booch.
+
+   "Architecture represents the significate decisions, where
+   significance is measured by cost of change." -- Grady Booch.
+
+** Is software architecture important?
+   - Experience
+   - Think about problems up front
+   - Learning
+
+   Without a software architect you have: no definied structure;
+   incosistencies; reduced quality; leading to the big ball of mud.
+
+** How would you organise a ten person software team?
+   - Architect as manager
+
+   - Flat structure (less hierarchical)
+     Everyone is joinly responsible for delivering the
+     software. Everyone is the architect.
+
+     Is there a danger that people won't communicate?
+
+     Just because there isn't one person to make the decision, it
+     doesn't mean that noone will make the decision.
+
+   - Two tier: junior and senior
+     Don't turn the dev team into a bunch of automotons.
+   
+   - PO, seven awesome engineers
+
+   - Architect as team lead
+     Not easy. Team lead is not the same as architect.
+
+   - Architect and manager as peer
+     Manager looks after time and budget.
+
+     Those that aren't the architect may not step up and do stuff
+     that's req'd because they see it as the job of the architect.
+   
+*** Is there a difference between architects and engineers?
+    In these areas there may be a difference
+    - Level of detail Being able to step back is a key part of being
+      an architect
+    - Education
+      Self vs formal
+    - Experience
+    - Leadership
+    - Evangelist
+    - QA type
+
+    What is the point of having an architect? Is it a single role?
+
+** The software architect role is different to that of lead developer
+   Developers should be looking at the IDE, thinking about the
+   patterns and the semicolons. The architect should step back and
+   consider: performance, availability, environment constraints.
+
+   Some people don't want to step back and look at the big picture.
+
+*** Should the architect write code?
+    - There's a difference between writing the code and doing it.
+      Things change so quickly that if the architect isn't doing it,
+      they won't know about it for very long.
+    - There may not be enough time for the architect to do
+      everything.
+
+    "I don't know Erlang. Would you let me architect you an Erlang
+    system". Make sure that the architect you're hiring has experience
+    in the area that your hiring for.
+      
