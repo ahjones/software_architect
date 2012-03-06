@@ -114,3 +114,46 @@
     system". Make sure that the architect you're hiring has experience
     in the area that your hiring for.
       
+    The architect should have breadth and depth of
+    knowledge. "Generalising specialist". 
+
+** Soft skills
+   It's crucial that the architect is able to efficiently convey the
+   ideas.
+
+   The architect can't be an expert in everything. They must be able
+   to colaborate and be open to ideas.
+
+   Be able to coach and mentor.
+
+** The role of a software architect
+   Just having these things doesn't make you an architect.
+
+*** Definition
+    We know that they're involved with: architecture definition and
+    technology selection. Often we can forget that they should manage
+    non-functional requirements. These have to be more than
+    - It's fast
+    - It's secure
+
+    They can evaluate architecture with POCs.
+
+*** Delivery
+    - Ownership of the big picture
+    - Technical leadership
+    - Coaching and mentoring
+    - QA
+    - Design, development, testing
+      If the big picture is very large, you won't have a lot of time
+      for this.
+
+*** Control
+    Software architecture introduces control. Or does it? If we
+    constrain what the developers do, then they're not thinking for
+    themselves. 
+
+**** Feedback loop
+     Architect to developers and back. The architect can reduce
+     control with an experienced team. If the team is inexperienced,
+     or not working well together, the control from the architect can
+     increase. 
