@@ -156,4 +156,25 @@
      Architect to developers and back. The architect can reduce
      control with an experienced team. If the team is inexperienced,
      or not working well together, the control from the architect can
-     increase. 
+     increase.
+
+     
+
+*** With developers
+    Avoid ivory towers by collaborating with software developers. If
+    you reduce the gap between architect and developer you end up
+    with a flat team.
+
+    #+BEGIN_QUOTE
+    "The software architect role is different to that of a lead
+    developer; requiring a breadth and depth of technical skills along
+    with good soft skills."
+    #+END_QUOTE
+
+    The holy grail is the flat team structure, but you've got to
+    realise that might not be attainable. You should be able to end up
+    with a flat-ish structure, but with specialising engineers.
+
+** When should an architect be involved in a software project?
+   How do you know that your architecture is going to work? Actual
+   interview candidate answer "it's an implementation detail".
