@@ -177,4 +177,13 @@
 
 ** When should an architect be involved in a software project?
    How do you know that your architecture is going to work? Actual
-   interview candidate answer "it's an implementation detail".
+   interview candidate answer "it's an implementation detail". The
+   implementation is not just a detail.
+
+   Get the developers involved in the architecture.
+
+   Pitfalls
+   - Being too dictatorial
+   - Not colaborating
+   - Trying to write too much code
+   - Not managing stakeholders
