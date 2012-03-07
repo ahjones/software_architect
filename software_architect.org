@@ -187,3 +187,18 @@
    - Not colaborating
    - Trying to write too much code
    - Not managing stakeholders
+
+** The role of a software architect
+   From chaos to self organising: everybody is a software architect.
+   
+   The process of software architecting: from big up front design to
+   evolutionary.
+
+   Just enough approach to architecture.
+
+   How would you define the role of architect in your company?
+   - What pitfalls have we fallen into in the past?
+   - Why not talk about this in your retrospectives?
+
+   Apply craftmanship to software architecture. Make some nice clean
+   diagrams that aren't too heavy and make sense.
